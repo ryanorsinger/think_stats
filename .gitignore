@@ -1,9 +1,5 @@
-
-# Ignore datasets- download these from ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NSFG
-2002FemPreg.dat
-2002FemResp.dat
-
+# OS Junk
 .DS_Store
+Thumbs.db
 
-# ThinkStats code is available from http://greenteapress.com/thinkstats/data.html
-thinkstats.code/
+# Ignore any large datasets
